@@ -1,0 +1,5 @@
+Salut ! 
+
+Dans ce repertoire, tu trouveras mon CV dans le fichier index.html
+
+/!\ penses à utiliser ton navigateur favoris pour l'ouvrir ! :D
